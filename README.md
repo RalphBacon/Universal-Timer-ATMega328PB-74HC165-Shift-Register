@@ -1,6 +1,9 @@
 # Universal Timer ATMega328PB 74HC165 Shift-Register
-A Universal Timer (or whatever you want) using an ATMega328PB and a simple chip on the SPI bus - easy!
 
+# See https:///www.youtube.com/ralphbacon video #161
+### (Direct link to video: https://youtu.be/k0UQa5S1DzU)
+
+A Universal Timer (or whatever you want) using an ATMega328PB and a simple chip on the SPI bus - easy!
 This project started life as a simple replacement timer for my toothbrush, now it's a universal timer with various options.
 
 [Sponsor]
