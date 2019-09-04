@@ -1,6 +1,6 @@
 # Universal Timer ATMega328PB 74HC165 Shift-Register
 
-$2 for PCB Prototype (*Any Colour*): https://jlcbcb.com
+### $2 for PCB Prototype (*Any Colour*): https://jlcbcb.com
 
 # See https:///www.youtube.com/ralphbacon video #161
 ### (Direct link to video: https://youtu.be/k0UQa5S1DzU)
@@ -45,8 +45,8 @@ http://bit.ly/VideoList-RalphBacon
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
-My channel and blog are here:  
-------------------------------------------------------------------  
+### My channel and blog are here:  
+\------------------------------------------------------------------  
 https://www.youtube.com/RalphBacon  
 https://ralphbacon.blog  
-------------------------------------------------------------------
+\------------------------------------------------------------------
