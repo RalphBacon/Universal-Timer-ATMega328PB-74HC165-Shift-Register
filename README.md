@@ -40,7 +40,7 @@ More **Beepers** but these are PASSIVE - send them a PWM signal or just use Ardu
 https://www.banggood.com/10pcs-3V-12V-Buzzer-16R-Resistance-AC-Passive-Buzzer-12085-p-1435460.html??p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 ### List of all my videos
-(Special thanks to Michael Kurt Vogel for compiling this)
+(Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/VideoList-RalphBacon
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
